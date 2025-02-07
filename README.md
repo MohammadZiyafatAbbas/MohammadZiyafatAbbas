@@ -41,7 +41,6 @@
 ### 📌 **Pinned Projects**
 📂 **Library Management System** → AI-powered book suggestions  
 🎲 **Dice Prediction Game** → Probability & fun combined  
-🛠 **Portfolio Website** → Fully 3D-powered, built with dora.ai  
 💡 **More Incoming... Stay Tuned!**
 
 ---
