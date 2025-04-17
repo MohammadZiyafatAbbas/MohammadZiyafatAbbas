@@ -63,12 +63,9 @@
 
 ---
 
-### 🔥 **Fun Facts**
-- 🎯 I want to **earn before 21** & support my family  
+### 🔥 **Fun Facts** 
 - 🏆 My **Face Liveness Detection Project** got selected in a Hackathon  
-- 🕹 I **love gaming & content creation** (Valorant & GTA V)  
+- 🕹 I **love gaming & content creation** 
 - 💡 I believe in **learning by building real-world projects**  
 
 ---
-
-✨ *“Dream Big. Build Smart. Innovate Always.”* 🚀
