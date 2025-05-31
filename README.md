@@ -8,10 +8,8 @@
 
 ### 🚀 **About Me**
 - 🎓 **CS Undergrad** | **Tech Explorer** | **Self-Learner**
-- 💡 Passionate about **Web Dev, AI, Data Science & Game Dev**
-- 🎯 Currently building **Shadows of Time (3D Game)**
-- 📚 Learning **Data Science & AI** | **Diving into Game Dev** 
-- 🎤 **Public Speaking Enthusiast** (Past Club Member)
+- 💡 Passionate about **Web Dev, AI & Data Science**
+- 📚 Learning **Data Science & AI** 
 - 💼 **Open to Opportunities:** Looking for **Internships & Freelance Work**
 
 ---
@@ -19,7 +17,6 @@
 ### ⚡ **What I Work On**
 - 💻 **Web Development** → React, JavaScript, PHP, CSS  
 - 🧠 **AI & Data Science** → Python, Machine Learning  
-- 🎮 **Game Development** → 3D Game Concepts & Prototyping  
 - 📦 **Projects I Love** → Real-World Problem Solving, AI-based Systems, and Interactive Games  
 
 ---
@@ -32,16 +29,8 @@
 ---
 
 ### 🌱 **Currently Exploring**
-- 🕹 **Game Development** (My 3D Game: *Shadows of Time*)
 - 🤖 **AI & Machine Learning** (Building Smart Solutions)
 - 🌍 **Open Source Contributions** (Looking to Give Back)
-
----
-
-### 📌 **Pinned Projects**
-📂 **Library Management System** → AI-powered book suggestions  
-🎲 **Dice Prediction Game** → Probability & fun combined  
-💡 **More Incoming... Stay Tuned!**
 
 ---
 
