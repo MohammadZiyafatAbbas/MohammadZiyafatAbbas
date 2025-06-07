@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Mohammad Ziyafat Abbas </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9FF&width=435&lines=Web+Developer+%E2%9C%A8;AI+%26+Data+Science+Explorer+%F0%9F%A7%AC;Game+Developer+in+Progress+%F0%9F%8E%AE;Creative+Problem+Solver+%E2%9C%94%EF%B8%8F;Tech+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9FF&width=435&lines=Web+Developer+%E2%9C%A8;AI+%26+Data+Science+Explorer+%F0%9F%A7%AC;Creative+Problem+Solver+%E2%9C%94%EF%B8%8F;Tech+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 ---
