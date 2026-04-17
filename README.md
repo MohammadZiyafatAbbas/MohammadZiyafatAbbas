@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Mohammad+Ziyafat+Abbas;ML+%C2%B7+NLP+%C2%B7+Deep+Learning;Building+AI+that+matters." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Mohammad+Ziyafat+Abbas" alt="Typing SVG" />
 
 <br/>
 
