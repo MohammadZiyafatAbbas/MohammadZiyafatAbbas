@@ -26,7 +26,7 @@
 
 <br/>
 
-## `whoami`
+## `who am i`
 
 ```python
 ziyafat = {
